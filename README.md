@@ -15,3 +15,5 @@ These show when they are used and by what gender.
 This show that over whelmingly that it is the subscribers that use that bikes!
 ## Sumamary
 As you can see above this program will work great for Iowa. We say this because must of the uses is to get to and from work. Plus with how much less busy Des Monie is it would work great to see stuff around the city.
+link to the story
+https://public.tableau.com/app/profile/charles.bolton5498/viz/nyc_16490256744420/NYCCitibike?publish=yes
